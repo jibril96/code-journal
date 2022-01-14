@@ -1,7 +1,8 @@
 Code journal
-
+01/13/2022
 with first git bash activity i encountered some problems navigating to my file location, and after couple of failed attempts i was fortunate to collab with classmate, Maryam, and was able to navigate to specific file locations with her assistance.
 Second activity was fun but annoying at the same time because i kept running into problems with git push, renaming the local master branch to main, and other technical difficulties. After struggling for some time trying to figure it out own my own, i reached out to Maryam and Hyeju for some clarity. Thanks to hyeju i was able to change branch from master to main. And i also would like to thank them both for helping me out with github and git bash.
+
 some of the problems: 
 17808@JIBRIL MINGW64 ~/documents/code-journal/my-repo (main)
 $ git commit -m "add README to initial commit"

@@ -1,5 +1,7 @@
-Code journal
-01/13/2022
+# Code journal
+
+## 01/13/2022
+
 with first git bash activity i encountered some problems navigating to my file location, and after couple of failed attempts i was fortunate to collab with classmate, Maryam, and was able to navigate to specific file locations with her assistance.
 Second activity was fun but annoying at the same time because i kept running into problems with git push, renaming the local master branch to main, and other technical difficulties. After struggling for some time trying to figure it out own my own, i reached out to Maryam and Hyeju for some clarity. Thanks to hyeju i was able to change branch from master to main. And i also would like to thank them both for helping me out with github and git bash.
 
@@ -42,3 +44,9 @@ hint: not have locally. This is usually caused by another repository pushing
 hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+
+## 01/19/2022
+
+Yesterday and today i mainly focused on my assignment DSGN 270 Agile UX Breakdown. This assignment was slightly challenging because i had to use figma to create a user wireflow of a website, and it was quit confusing at first because i never used Figma before this assignment. However, after few mistakes, struggles, and even erasing some boxes i created for the project, i figured it out and was able to select the correct frames for the assignment. After that it was easier to recreate the web pages with figma to complete DSGN 270 Agile UX Breakdown project.
+
+The objective is to frequently utilize figma because my instructor, Tony, said we will use it more in the program and it is for everyone's best interest to get used it as soon as possible. With that in mind, i want to master figma if that is possible. And i will probably practice on it as much as possible and watch some youtube tutorials on it to strengthen my skills at using it the best way there is. Just to end it off, i would like to say that i like the goals i am setting right now because like before with git bash i was in the same position, but after repeated steps and practices almost everyday i can admit i am not as bad as i was when i started using the terminal. With this type of realistic game plan i can get good at using figma the right way, or anything else. 

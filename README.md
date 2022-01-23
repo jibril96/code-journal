@@ -56,13 +56,13 @@ The objective is to frequently utilize figma because my instructor, Tony, said w
 ## First assignment of CPNT-260-A
 
 ### Today’s goaI is to complete HTML and CSS Wikipedia article assignment.
-. In today’s class the instructor gave lessons on HTML and CSS.
-. I just found random article called ‘Old Exe Bridge’ on Wikipedia.
-. Using  <header> </head>  was able to complete one section on HTML.
-. When it came to trying out what the teacher taught I struggled with it at first.
-. By playing around on Codepen with HTML and CSS, and Ash’s help, I got better with it.
-. Ash explained to me how to add HTML first and then style it with CSS code: Header{ }.
-. After Ash helped me out with CSS I was able to figure out how to apply it on the rest of HTML.
-. I applied P{text-align: color:}.
-. After adjusting and readjusting back and forth and applying new codes like <div>  <img src=” “>  </> I was able to finish my wiki article activity and submit it. 
+* In today’s class the instructor gave lessons on HTML and CSS.
+* I just found random article called ‘Old Exe Bridge’ on Wikipedia.
+* Using  <header> </head>  was able to complete one section on HTML.
+* When it came to trying out what the teacher taught I struggled with it at first.
+* By playing around on Codepen with HTML and CSS, and Ash’s help, I got better with it.
+* Ash explained to me how to add HTML first and then style it with CSS code: Header{ }.
+* After Ash helped me out with CSS I was able to figure out how to apply it on the rest of HTML.
+* I applied P{text-align: color:}.
+* After adjusting and readjusting back and forth and applying new codes like <div>  <img src=” “>  </> I was able to finish my wiki article activity and submit it. 
 [Wiki activity](https://codepen.io/jibril96/pen/eYGqOWE)

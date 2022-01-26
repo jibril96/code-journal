@@ -66,3 +66,14 @@ The objective is to frequently utilize figma because my instructor, Tony, said w
 * I applied P{text-align: color:}.
 * After adjusting and readjusting back and forth and applying new codes like <div>  <img src=” “>  </> I was able to finish my wiki article activity and submit it. 
 [Wiki activity](https://codepen.io/jibril96/pen/eYGqOWE)
+
+# 01/24/22
+### Today's objective
+* I used codepen.
+* I created top bar.
+* I played around with flex box on codepen.
+* Inserted image of campsite with people.
+* I got image from pexels.com.
+* used nav class to add 4 top bar nav with flex-container.
+* I still have to get comfortable with html and css.
+* sometimes i get mixed up and end up messing up codes.

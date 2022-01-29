@@ -77,3 +77,25 @@ The objective is to frequently utilize figma because my instructor, Tony, said w
 * used nav class to add 4 top bar nav with flex-container.
 * I still have to get comfortable with html and css.
 * sometimes i get mixed up and end up messing up codes.
+
+# 01/28/22
+
+#### goals
+
+* Today i was able to gather everything i need to complete 404 ERROR page.
+
+* I got a very relatable photo from pexels.com.
+
+* Picked some colors from flatuicolors.com.
+ 
+ * worked on it in vs code and codepen.
+
+ * I used position: relative; to move around the picture little bit.
+
+ * Was able to get it to the desired position.
+
+ * the aim is to get it done before midnight.
+ 
+
+
+ 

@@ -96,6 +96,18 @@ The objective is to frequently utilize figma because my instructor, Tony, said w
 
  * the aim is to get it done before midnight.
  
+  # 02/01/2022
+  
+  ### What i did today
+  
+  * Today i mainly focused on forms assignment.
+  * it is coming along.
+  * I got some good feedback from Ash and Jessica.
+  * Afterwards i fixed some code errors, like fieldset and legend in HTML and CSS width and height.
+  * i got satarted on hero section and was able to come with a theme for it.
+  * for some reason the background picture is not appearing.
+  * but i got button, header, and body section almost ready.
+  * gallary layout assignment is also in the works.
 
 
  

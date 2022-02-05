@@ -108,6 +108,25 @@ The objective is to frequently utilize figma because my instructor, Tony, said w
   * for some reason the background picture is not appearing.
   * but i got button, header, and body section almost ready.
   * gallary layout assignment is also in the works.
+  
+  # 02/03-04/2022
+  
+  * For my gallery layout this was my design![gallery-layout-design](https://user-images.githubusercontent.com/97467330/152622693-56ff0e0b-3a12-47d6-814e-88a8e94c61be.jpg)
+* I really enjoyed this assignment.
+* One problem was to get rid off bottom scroll when the screen got smaller.
+* The issue appeared when i changed column span to 2 for top and bottom pictures.
+* I resolved that issue with Tony's suggestions by changing to 1fr 1fr and getting rid of 4 repeat and min-max for grid-template-column.
+## 02/04/2022
+  
+* Today and yesterday We learned JavaScript variables and values.
+* let variable changed or updated but not declared.
+* const opposite.
+* Var is no longer used.
+* Const doesn't allow to be assigned again.
+* for this const is perfered to declare variables.
+* let good incase you want reassign variable.
+* objectName.propertyName or objectName["propertyName"] boh do samething, find propety of object.
+
 
 
  
